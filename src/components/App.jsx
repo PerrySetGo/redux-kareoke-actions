@@ -6,6 +6,7 @@ import Header from './Header';
 function App(){
   return (
     <div>
+    This is the WIP version. 
       <Header />
       <br/>
       <SongList />
